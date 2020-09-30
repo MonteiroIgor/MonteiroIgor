@@ -1,16 +1,16 @@
 <img align="right" width="350" src="https://www.edureka.co/blog/wp-content/uploads/2019/03/1blog-1-405x300.png">
 
-### Ju 👋 - Analista de Qualidade de Software II - QA
+### Igor Monteiro - Analista de Qualidade de Software Pleno - QA
 
 ---
 
 ### Sobre mim
 - :earth_americas: João Pessoa - Paraíba
-- :woman_technologist: Apaixonada por automação de testes
-- 💻 Atualmente estudando machine learning/deep learning, e formas de utilizar esse conhecimento dentro da área.
-- 🌱 Sempre em busca de conhecimento
-- 🕵️‍♀️ Curiosa...
-- 🤝 Sempre disposta a compartilhar conhecimento, qualquer dúvida estou à disposição.
+- :man_technologist: Fascinado por programação e automação de testes
+- 💻 Atualmente estudando inteligência artificial e ferramentas para utilização em automação de testes.
+- 🌱 Sempre disposto a adquirir conhecimento
+- 👨🏾‍💻 O importante é nao parar 
+- 🤝 Compartilhar conhecimento e fortalecer os vínculos com os amigos
 
 ---
 
@@ -61,13 +61,13 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja)](https://github.com/jussaragranja/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroIgor)](https://github.com/MonteiroIgor)
 <br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jussaragranja&show_icons=true&theme=dark)](https://github.com/jussaragranja/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MonteiroIgor&show_icons=true&theme=dark)](https://github.com/MonteiroIgor)
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/jussaragranja/
-[gitlab]: https://gitlab.com/jussaragranja/
+[linkedin]: https://www.linkedin.com/in/monteiro-igor/
+[gitlab]: https://gitlab.com/igormonteiro
 [gitlabci]: https://docs.gitlab.com/ee/ci/
 [instagram]: https://www.instagram.com/ivan.jonatas/
 [twitter]: https://twitter.com/JuuhGranja
