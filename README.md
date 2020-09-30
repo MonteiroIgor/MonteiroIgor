@@ -69,8 +69,8 @@
 [linkedin]: https://www.linkedin.com/in/monteiro-igor/
 [gitlab]: https://gitlab.com/igormonteiro
 [gitlabci]: https://docs.gitlab.com/ee/ci/
-[instagram]: https://www.instagram.com/ivan.jonatas/
-[twitter]: https://twitter.com/JuuhGranja
+[instagram]: https://www.instagram.com/igor__monteiro/
+[twitter]: https://twitter.com/iggormontteiro
 [java]: https://docs.oracle.com/en/java/
 [selenium]: https://www.selenium.dev/documentation/en/
 [restassured]: https://rest-assured.io/
@@ -80,10 +80,8 @@
 [grid]: https://www.selenium.dev/documentation/en/
 [jmeter]: https://jmeter.apache.org/
 [cucumber]: https://cucumber.io/
-[capybara]: https://rubydoc.info/github/teamcapybara/capybara/master
 [python]: https://www.python.org/doc/
 [django]: https://docs.djangoproject.com/en/3.1/
-[ruby]: https://www.ruby-lang.org/pt/documentation/
 [maven]: https://maven.apache.org/guides/index.html
 [jenkins]: https://www.jenkins.io/doc/
 [docker]: https://docs.docker.com/
@@ -91,6 +89,4 @@
 [mysql]: https://dev.mysql.com/doc/
 [postgresql]: https://www.postgresql.org/docs/
 [mongodb]: https://www.mongodb.com/
-[sqlite]: https://www.sqlite.org/docs.html
-[sqlserver]: https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15
 
