@@ -40,6 +40,7 @@
 [<img align="left" alt="HTML5" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHe0fn9Bp8q5iB_yhJOt35aZAD1yABrLjOAQ&usqp=CAU">][testng]
 [<img align="left" alt="HTML5" width="80px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
 [<img align="left" alt="HTML5" width="60px" src="https://svn.apache.org/repos/asf/jmeter/tags/v3_2/docs/images/jmeter_square.svg">][jmeter]
+[<img align="left" alt="HTML5" width="50px" src="https://pt.wikipedia.org/wiki/JavaScript#/media/Ficheiro:Unofficial_JavaScript_logo_2.svg">][javascript]
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -87,4 +88,5 @@
 [postgresql]: https://www.postgresql.org/docs/
 [sqlserver]: https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15
 [mongodb]: https://www.mongodb.com/
+[javascript]: https://pt.wikipedia.org/wiki/JavaScript
 
