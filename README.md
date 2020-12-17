@@ -27,7 +27,7 @@
 
 ### Linguagens e Ferramentas:
 [<img align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
-[<img align="left" alt="HTML5" width="35px" src="https://lh3.googleusercontent.com/proxy/zVnS5LE2xWoz-OtvkFIpnvElrKHVkmC-6qj2-yf6XRfQh4Pjfr1RWDeFrLdcNxd95WPJM3BEpx_GsTooBjvnq3wU6qAwM2i2kUcn">][python]
+[<img align="left" alt="HTML5" width="35px" src="https://vignette.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest/scale-to-width-down/180?cb=20130301171443">][python]
 [<img align="left" alt="HTML5" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
 [<img align="left" alt="HTML5" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
 [<img align="left" alt="HTML5" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
