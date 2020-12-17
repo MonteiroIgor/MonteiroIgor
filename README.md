@@ -27,11 +27,11 @@
 
 ### Linguagens e Ferramentas:
 [<img align="left" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/258px-Java_Logo.svg.png"/>][java]
-[<img align="left" alt="HTML5" width="60px" src="https://lh3.googleusercontent.com/proxy/zVnS5LE2xWoz-OtvkFIpnvElrKHVkmC-6qj2-yf6XRfQh4Pjfr1RWDeFrLdcNxd95WPJM3BEpx_GsTooBjvnq3wU6qAwM2i2kUcn">][python]
+[<img align="left" alt="HTML5" width="50px" src="https://lh3.googleusercontent.com/proxy/zVnS5LE2xWoz-OtvkFIpnvElrKHVkmC-6qj2-yf6XRfQh4Pjfr1RWDeFrLdcNxd95WPJM3BEpx_GsTooBjvnq3wU6qAwM2i2kUcn">][python]
 [<img align="left" alt="HTML5" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
 [<img align="left" alt="HTML5" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
 [<img align="left" alt="HTML5" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
-[<img align="left" alt="HTML5" width="120px" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png">][cucumber]
+[<img align="left" alt="HTML5" width="100px" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png">][cucumber]
 [<img align="left" alt="HTML5" width="80px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
 [<img align="left" alt="Visual Studio Code" width="80px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
 [<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
