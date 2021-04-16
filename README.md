@@ -9,7 +9,7 @@
 - :man_technologist: Fascinado por programação e automação de testes
 - 💻 Atualmente estudando inteligência artificial e ferramentas para utilização em automação de testes.
 - 🌱 Sempre disposto a adquirir conhecimento
-- 👨🏾‍💻 O importante é nao parar 
+- 👨🏾‍💻 O importante é não parar 
 - 🤝 Compartilhar conhecimento e fortalecer os vínculos com os amigos
 
 ---
