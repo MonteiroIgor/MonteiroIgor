@@ -1,6 +1,6 @@
 <img align="right" width="350" src="https://www.edureka.co/blog/wp-content/uploads/2019/03/1blog-1-405x300.png">
 
-### Igor Monteiro - Analista de Qualidade de Software Pleno - QA
+### Igor Monteiro - IT Specialist / Software Engineer
 
 ---
 
