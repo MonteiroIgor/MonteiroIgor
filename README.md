@@ -32,7 +32,6 @@
 [<img align="left" alt="HTML5" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU">][restassured]
 [<img align="left" alt="HTML5" width="60px" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png">][selenium]
 [<img align="left" alt="HTML5" width="100px" src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png">][cucumber]
-[<img align="left" alt="HTML5" width="80px" src="https://www.selenium.dev/images/selenium_grid_logo_square.png">][grid]
 [<img align="left" alt="Visual Studio Code" width="80px" src="https://miro.medium.com/max/800/1*LOFbTP2SxXcFpM_qTsUSuw.png" />][jenkins]
 [<img align="left" alt="HTML5" width="60px" src="https://www.ibm.com/blogs/cloud-computing/wp-content/uploads/2014/04/docker-logo-open-cloud.png" />][docker]
 [<img align="left" alt="HTML5" width="50px" src="https://miro.medium.com/max/340/1*HP0Qss6BAQcv0UbHb21YFQ.png">][gitlabci]
@@ -52,7 +51,7 @@
 [<img align="left" alt="HTML5" width="110px" src="https://www.baaer.eu/wp-content/uploads/2018/07/Slide1.jpg">][oracle]
 [<img align="left" alt="HTML5" width="60px" src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png">][sqlserver]
 [<img align="left" alt="HTML5" width="80px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">][mysql]
-[<img align="left" alt="HTML5" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
+[<img align="left" alt="HTML5" width="60px" src="https://miro.medium.com/max/1400/0*z58cqZWxu2_4q5-g.jpg">][postgresql]
 [<img align="left" alt="HTML5" width="120px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775">][mongodb]
 
 
